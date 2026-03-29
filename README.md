@@ -48,7 +48,7 @@ The app follows the **MVVM (Model-View-ViewModel)** pattern:
 
 ## 📸 Screenshots
 
-![_Simulator Screenshot - iPhone 16 Pro - 2026-03-26 at 10 24 29](https://github.com/user-attachments/assets/016864a0-df81-47b0-99e4-619110ce8180)
+<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2026-03-26 at 10 24 29" src="https://github.com/user-attachments/assets/0a25651a-3a72-49e8-8a47-08cbb9312e37" />
 
 ---
 
