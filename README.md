@@ -76,7 +76,7 @@ The app follows the **MVVM (Model-View-ViewModel)** pattern:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/pranavpatel172000/SwiftCoin.git
+git clone https://github.com/pranavpatel172000/SwiftCoin-iOS.git
 ```
 
 2. Open in Xcode
